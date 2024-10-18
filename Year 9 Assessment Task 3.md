@@ -39,7 +39,7 @@ on how to make things move.
 **Task:** To identify what inputs the game needs from the player's to make it work.\
 **Instructions:**
 - WASD, arrow keys, left click mouse
-- *Example:*  The user will input either WASD or arrow keys to move the car, and will use the left click mouse to press buttons.
+- *Example:*  The user will input either WASD or arrow keys to move the car, and will use the left click mouse to press buttons in the user interface.
 #### Processing
 **Task:** To describe what happens after the inputs have been received by the user.\
 **Instructions:** 
@@ -51,12 +51,33 @@ on how to make things move.
 - The screen and the player's position will update, and a message will show up.
 - *Example:* The game will update the postion of the player, and if they die it will show a message of "Would you like to try again?" or "Quit" option.
 #### Transmission
-**Task:** \
+**Task:** The data will stay private to the player that is playing.\
 **Instructions:**
-- ..
-- ..
+- It is saved to the computer
+- *Example:* The game will save the data to the computer or laptop that the game is played on and they will be the only one that can see their results.
 #### Storage
+**Task:** To identify the data that needs to be saved, and where it is saved.\
+**Instructions:**
+- It will save to the computer or laptop after the game is saved.
+- *Example:* After finishing the game or the session that they play, the game will save to the local cloud so that the user can continue where they picked off.
+### Functional Requirements
+#### User Interaction
+**Task:** To determine how the user will interact with the system.\
+**Instructions:**
+- The users will interact with the game with keyboard inputs. W & up arrow - forward, A & left arrow - left, S & down arrow - backward, D & left arrow - right. The user
+#### Core Gameplay
+**Task:** .\
+**Instructions:**
+- .
+#### Scoring and Feeback
+**Task:** .\
+**Instructions:**
+- .
+#### Level Progression
+**Task:** .\
+**Instructions:**
+- .
+#### Saving and Loading data
 **Task:** \
 **Instructions:**
-- ..
-- ..
+- 
