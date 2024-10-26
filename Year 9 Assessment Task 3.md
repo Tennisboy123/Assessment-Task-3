@@ -34,53 +34,50 @@ when getting their drivers licence and driving a car.
 #### **Skill Development:** 
 To develop the skills to make the game, I will watch Mr. Scott's tutorials for refreshing 
 on how to make things move. 
+
+
 ### Requirements Outline
 #### Inputs
-**Task:** To identify what inputs the game needs from the player's to make it work.\
-**Instructions:**
-- WASD, arrow keys, left click mouse
-- *Example:*  The user will input either WASD or arrow keys to move the car, and will use the left click mouse to press buttons in the user interface
+- The user will input either WASD or arrow keys to move the car
+- They can also use the left click mouse to press buttons in the user interface
 #### Processing
-**Task:** To describe what happens after the inputs have been received by the user.\
-**Instructions:** 
-- The system will process the inputs by doing it accordingly with the input that it is given
-- *Example:* The program will check that it hasn't hit any colliders and will move it to where it should be, like forward or at a turn
+- The program will check that it hasn't hit any colliders and will move it to where it should be, like forward or at a turn
+- Once a level is finished, the game will act accordingly and will activate the next level
 #### Outputs
-**Task:** To show what the user will find after the processing.\
-**Instructions:** 
-- The screen and the player's position will update, and a message will show up
-- *Example:* The game will update the postion of the player, and if they die it will show a message of "Would you like to try again?" or "Quit" option
+- The game will update the postion of the player after the input is recieved
+- If they die it will show a message of "Would you like to try again?" or "Quit" option
 #### Transmission
-**Task:** The data will stay private to the player that is playing.\
-**Instructions:**
-- It is saved to the computer
-- *Example:* The game will save the data to the computer or laptop that the game is played on and they will be the only one that can see their results
+- The game will save the data to the computer or laptop that the game is played on and they will be the only one that can see their results
+- This game won't have public scores that other's can see
 #### Storage
-**Task:** To identify the data that needs to be saved, and where it is saved.\
-**Instructions:**
-- It will save to the computer or laptop after the game is saved
-- *Example:* After finishing the game or the session that they play, the game will save to the local cloud so that the user can continue where they picked off
+- After finishing the game or the session that they play, the game will save to the local cloud so that the user can continue where they picked off
+- It will save the level that they are up to and the levels they have completed.
+
+
 ### Functional Requirements
 #### User Interaction
-**Task:** To determine how the user will interact with the system.\
-**Instructions:**
 - The users will interact with the game with keyboard inputs. W & up arrow - forward, A & left arrow - left, S & down arrow - backward, D & left arrow - right
 - The users will also use the left click mouse to navigate the User Interface and to select options
 #### Core Gameplay
-**Task:** To identify the actions or operations of this project.\
-**Instructions:**
 - The main function or action in this game is movement, as it is how the car moves and is the point of the game
 - The key will be pressed -> The game will sense it -> The position of your character will be moved according (for example: the user will press either the W or up arrow key, and their car will move forward)
 #### Scoring and Feeback
-**Task:** To describe how the will give feedback to the player or to track their progress.\
-**Instructions:**
 - There will be a message at the end of each level to say that you have completed it. It will then ask if you want to go to the next level. Feedback will also be given if you hit an obstacle (like another car)
 - The "next level" response will be activated if you complete the level, and the "hit another obstacle" response will be activated if you hit the obstacle while parking
 #### Level Progression
-**Task:** \
-**Instructions:**
-- .
+- This game will have multiple levels, and once you succeed in parking a car the right way, you will go to the next level
+- The levels will get progressively harder to make the game more interesting
 #### Saving and Loading data
-**Task:** \
-**Instructions:**
+- The project will save the user's progress locally to their device
+- The game will load the recent data the next time they load the game
+
+
+### Non-Functional Requirements
+#### Performance Requirements
+- The game should load in around 4 seconds. 
+- It should respond to the inputs from users as fast as possible, and there should be no noticeable lag.
+#### Usability Requirements
+- The UI will be easy to navigate with clear and easy to use buttons
+- There will also be a tutorial so people know what to do, as well as a practice level.
+#### Scalability Requirements
 - 
