@@ -74,10 +74,21 @@ on how to make things move.
 
 ### Non-Functional Requirements
 #### Performance Requirements
-- The game should load in around 4 seconds. 
-- It should respond to the inputs from users as fast as possible, and there should be no noticeable lag.
+- The game should load in around 4 seconds
+- It should respond to the inputs from users as fast as possible, and there should be no noticeable lag
 #### Usability Requirements
 - The UI will be easy to navigate with clear and easy to use buttons
-- There will also be a tutorial so people know what to do, as well as a practice level.
+- There will also be a tutorial so people know what to do, as well as a practice level
 #### Scalability Requirements
-- 
+- The game should be able to be expanded with more levels as more people complete the game
+- The game will have new cars to choose from so that the game can be expanded to be more fun
+
+
+### Consideration of Social and Ethical Issues
+#### Define the following terms:
+**Equity:** Equity mean fairness and justice.\
+**Accessibility:** Accessibilty means to be able to be entered or reached no matter who you are.
+#### Accessibility
+My project will be able to be use by people of all abilities, as it is very easy to play and to navigate. My game will have an option to have the list of rules all on the screen instead of the tutorial if it is easier for them to read and understand the game like that.
+#### Privacy and Data Protection
+
