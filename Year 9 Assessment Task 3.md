@@ -1,19 +1,6 @@
 # Year 9 Computing Technology Assessment Task 3
 # By Sebastian Tam - 9CT1B
 ## Identifying and Defining
-### PMI
-#### Parking Fury
-| Plus | Minus | Interesting |
-| :---- | :---- | :---- |
-| It helps people drive cars and park it. It can help people's fine motor skills and hand eye coordination as it has a rule where if you touch another car or an object you lose a life. | It doesn't have many levels, but there are multiples jobs in each level, and it doesn't have different weather conditions. | There are 3 different versions of the game, each with 10 levels each. |
-#### Car Parking Master Game
-| Plus | Minus | Interesting |
-| :---- | :---- | :---- |
-| It helps teach you how to park a car in different scenarios, and it help's people learn how to drive a car as well. It has obstacles on the side and if you hit it you die and have to restart the level. | The game gets boring over time as you have to repeat the same levels everytime you load in. | The game has reallife scenarios like humps and barriers. |
-#### Parkmania
-| Plus | Minus | Interesting |
-| :---- | :---- | :---- |
-| It has lots of obstacles to help people learn how to drive and to park their car. | It is annoying that you have to finish in an exact point even after you park in between the lines, and it is a bit unrealistic as you can drift in the game, but not in reallife. | You can't see how many levels there are in the whole game. |
 ### Brainstorming for Game
 - Vehicle (car)
 - Help with driving
@@ -98,3 +85,15 @@ My project wont have any stereotypes or bias, and there will be no characters. T
 My game won't affect the users' mental health as mine is a peaceful game, compared to games with violence like First Person Shooter games. Mine won't have scary scenarios so it will be peaceful but still fun.
 #### Cultural Sensitivities
 The content in my game won't be offensive or rude to different cultures as I will avoid putting symbols on the map. The maps and cars will be random so it shouldn't be inappropriate or misunderstood by users from different cultural backgrounds.
+
+## Research and Planning
+### PMI
+#### Parkmania
+| Plus | Minus | Implication |
+| :---- | :---- | :---- |
+| It has lots of obstacles to help people learn how to drive and to park their car. | It is annoying that you have to finish in an exact point even after you park in between the lines, and it is a bit unrealistic as you can drift in the game, but not in reallife. | You can't see how many levels there are in the whole game. |
+
+| Existing Game | Plus | Minus | Implication |
+| :----| :----| :----| :----|
+| Parking Fury ![alt text](image.png)  | It helps people drive cars and park it. It can help people's fine motor skills and hand eye coordination as it has a rule where if you touch another car or an object you lose a life. | It doesn't have many levels, but there are multiples jobs in each level, and it doesn't have different weather conditions. | There are 3 different versions of the game, each with 10 levels each. |
+| Car Parking Master Game | It helps teach you how to park a car in different scenarios, and it help's people learn how to drive a car as well. It has obstacles on the side and if you hit it you die and have to restart the level. | The game gets boring over time as you have to repeat the same levels everytime you load in. | The game has reallife scenarios like humps and barriers. |
