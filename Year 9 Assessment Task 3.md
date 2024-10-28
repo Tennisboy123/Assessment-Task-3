@@ -91,4 +91,10 @@ on how to make things move.
 #### Accessibility
 My project will be able to be use by people of all abilities, as it is very easy to play and to navigate. My game will have an option to have the list of rules all on the screen instead of the tutorial if it is easier for them to read and understand the game like that.
 #### Privacy and Data Protection
-
+My project will collect user data, but it will only save the level that the user is up to. It will also save what cars they have unlocked, however only they will be able to view it.
+#### Fairness and Representation
+My project wont have any stereotypes or bias, and there will be no characters. The only thing in my game will be cars, so that will avoid harmful stereotypes compared to if there are characters.
+#### Mental and Emotional Well-Being
+My game won't affect the users' mental health as mine is a peaceful game, compared to games with violence like First Person Shooter games. Mine won't have scary scenarios so it will be peaceful but still fun.
+#### Cultural Sensitivities
+The content in my game won't be offensive or rude to different cultures as I will avoid putting symbols on the map. The maps and cars will be random so it shouldn't be inappropriate or misunderstood by users from different cultural backgrounds.
