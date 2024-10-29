@@ -88,12 +88,20 @@ The content in my game won't be offensive or rude to different cultures as I wil
 
 ## Research and Planning
 ### PMI
-#### Parkmania
-| Plus | Minus | Implication |
-| :---- | :---- | :---- |
-| It has lots of obstacles to help people learn how to drive and to park their car. | It is annoying that you have to finish in an exact point even after you park in between the lines, and it is a bit unrealistic as you can drift in the game, but not in reallife. | You can't see how many levels there are in the whole game. |
-
 | Existing Game | Plus | Minus | Implication |
 | :----| :----| :----| :----|
-| Parking Fury ![alt text](image.png)  | It helps people drive cars and park it. It can help people's fine motor skills and hand eye coordination as it has a rule where if you touch another car or an object you lose a life. | It doesn't have many levels, but there are multiples jobs in each level, and it doesn't have different weather conditions. | There are 3 different versions of the game, each with 10 levels each. |
-| Car Parking Master Game | It helps teach you how to park a car in different scenarios, and it help's people learn how to drive a car as well. It has obstacles on the side and if you hit it you die and have to restart the level. | The game gets boring over time as you have to repeat the same levels everytime you load in. | The game has reallife scenarios like humps and barriers. |
+| Parking Fury ![alt text](image-3.png)  | It helps people drive cars and park it. It can help people's fine motor skills and hand eye coordination as it has a rule where if you touch another car or an object you lose a life. It also saves your progess if you are on the same device. | It doesn't have many levels, but there are multiples jobs in each level, and it doesn't have different weather conditions. | I will try to do something similar to this, but instead of 3 seperate games I will do it all in one go, and I will try to add different weather conditions to make the game more realistic. I will also use the movement in this game. |
+| Car Parking Master Game ![alt text](image-1.png) | It helps teach you how to park a car in different scenarios, and it help's people learn how to drive a car as well. It has obstacles on the side and if you hit it you die and have to restart the level. There are also different cars that you can use at the start. | The game gets boring over time as you have to repeat the same levels everytime you load in, and it isn't realistic as there are only cones, compared to other cars being in the game. | I will try to make my game like this in the way that there are multiple cars, however I will make it like an achievement after reaching a certain amount of levels. |
+| Parkmania ![alt text](image-2.png) | It has lots of obstacles to help people learn how to drive and to park their car. | It is annoying that you have to finish in an exact point even after you park in between the lines, and it is a bit unrealistic as you can drift in the game, but not in reallife. | My game might be similar to this as there are other cars to make the game more realistic, but I won't add the movement for this game. |
+
+
+### Flowcharts and Pseudocodes
+#### User Interaction
+
+#### Core Gameplay
+
+#### Scoring and Feedback
+
+#### Level Progression
+
+#### Saving and Loading Data
