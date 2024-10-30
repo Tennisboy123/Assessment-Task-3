@@ -45,12 +45,6 @@ on how to make things move.
 #### User Interaction
 - The users will interact with the game with keyboard inputs. W & up arrow - forward, A & left arrow - left, S & down arrow - backward, D & left arrow - right
 - The users will also use the left click mouse to navigate the User Interface and to select options
-#### Core Gameplay
-- The main function or action in this game is movement, as it is how the car moves and is the point of the game
-- The key will be pressed -> The game will sense it -> The position of your character will be moved according (for example: the user will press either the W or up arrow key, and their car will move forward)
-#### Scoring and Feeback
-- There will be a message at the end of each level to say that you have completed it. It will then ask if you want to go to the next level. Feedback will also be given if you hit an obstacle (like another car)
-- The "next level" response will be activated if you complete the level, and the "hit another obstacle" response will be activated if you hit the obstacle while parking
 #### Level Progression
 - This game will have multiple levels, and once you succeed in parking a car the right way, you will go to the next level
 - The levels will get progressively harder to make the game more interesting
@@ -120,13 +114,57 @@ BEGIN MOVEMENT
 
 END MOVEMENT
 
-#### Core Gameplay
-
-BEGIN GAMEPLAY
-
-&nbsp;
-#### Scoring and Feedback
-
 #### Level Progression
 
+BEGIN LEVEL
+
+
+
+&nbsp; IF level completed THEN
+
+&nbsp; input userInput
+
+&nbsp; &nbsp; PRINT "Would you like to go to the next level?"
+
+&nbsp; &nbsp; &nbsp; IF userInput = Yes
+
+&nbsp; &nbsp; &nbsp; &nbsp; GO to next LEVEL
+
+&nbsp; &nbsp; &nbsp; IF userInput = NO
+
+&nbsp; &nbsp; &nbsp; &nbsp; GO to next LEVEL
+
+
+&nbsp; ELSEIF level not completed THEN
+
+&nbsp; &nbsp; Continue Gameplay
+
+END LEVEL
+
 #### Saving and Loading Data
+
+BEGIN SAVE
+
+input userInput
+
+&nbsp; IF level completed THEN
+
+&nbsp; &nbsp; PRINT "Would you like to go to the next level?"
+
+&nbsp; &nbsp; &nbsp; IF userInput = No
+
+&nbsp; &nbsp; &nbsp; &nbsp; Save level
+
+END SAVE
+
+BEGIN LOAD 
+
+input userInput
+
+&nbsp; PRINT "Would you like to continue where you left off?"
+
+&nbsp; &nbsp; IF userInput = Yes
+
+&nbsp; &nbsp; &nbsp; Start from SAVE
+
+END LOAD
