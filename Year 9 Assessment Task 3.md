@@ -97,7 +97,7 @@ The content in my game won't be offensive or rude to different cultures as I wil
 
 ### Flowcharts and Pseudocodes
 #### User Interaction
-
+![alt text](<User interaction flowchart.drawio.png>)
 #### Core Gameplay
 
 #### Scoring and Feedback
