@@ -98,8 +98,33 @@ The content in my game won't be offensive or rude to different cultures as I wil
 ### Flowcharts and Pseudocodes
 #### User Interaction
 ![alt text](<User interaction flowchart.drawio.png>)
+BEGIN MOVEMENT
+
+&nbsp; INPUT userInput
+
+&nbsp; IF 'W' pressed THEN
+
+&nbsp; &nbsp; Move player forward
+
+&nbsp; ELSEIF 'A' pressed THEN
+
+&nbsp; &nbsp; Move player left
+
+&nbsp; ELSEIF 'S' pressed THEN
+
+&nbsp; &nbsp; Move player backward
+
+&nbsp; ELSEIF 'D' pressed THEN
+
+&nbsp; &nbsp; Move player right
+
+END MOVEMENT
+
 #### Core Gameplay
 
+BEGIN GAMEPLAY
+
+&nbsp;
 #### Scoring and Feedback
 
 #### Level Progression
