@@ -181,3 +181,13 @@ END LOAD
 
 ### Storyboards
 
+#### Whole game storyboard
+![alt text](<Whole game storyboard.drawio.png>)
+#### Splashscreen storyboard
+
+#### Game menu storyboard
+
+#### Level design storyboard
+
+### Gantt Chart
+![alt text](image-6.png)
